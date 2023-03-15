@@ -320,5 +320,5 @@ if __name__ == '__main__':
     # test_my_imfilter()
     # test_frequency_filter()
     # test_spatial_filter()
-    # test_hybrid_image()
-    test_time()
+    test_hybrid_image()
+    # test_time()
