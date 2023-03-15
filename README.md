@@ -40,6 +40,17 @@ The results are shown below:
 ## Pyramid of Images
 By using the built-in function pyramid\_gaussian() from skimage, we can easily make the series of images.  
 The results for selected images (using the frequency domain with sigma=10) are shown below: 
+![image](https://user-images.githubusercontent.com/83058686/225351385-1cc53aac-f32b-40b1-a017-cb329fff40f3.png)
+![image](https://user-images.githubusercontent.com/83058686/225351584-334c820c-5714-4b34-8009-577e6543edb0.png)
+
+
+![image](https://user-images.githubusercontent.com/83058686/225351907-305bea0c-9785-4369-be20-8bcb06d5d4c8.png)
+![image](https://user-images.githubusercontent.com/83058686/225352022-b3022915-b2de-4117-a1da-b54216d32019.png)
+
+
+![image](https://user-images.githubusercontent.com/83058686/225352169-024c0ed0-38f2-4dd5-a901-3be5581e8c2c.png)
+![image](https://user-images.githubusercontent.com/83058686/225352262-0099468a-ae08-4eac-b4dc-b0f58ace7768.png)
+
 
 
 
